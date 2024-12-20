@@ -21,7 +21,7 @@ body{
     display: inline-block;
 }
 .left .logo{
-   width: 400px;
+   width: 300px;
    justify-self: center;
 }
 .left p{
